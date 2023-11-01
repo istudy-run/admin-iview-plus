@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["404"],{cc89:function(n,t,c){"use strict";c.r(t);var e=function(){var n=this,t=n._self._c;return t("exception",{attrs:{type:"404","img-color":""}})},o=[],p=c("2af9"),s={components:{Exception:p["n"]}},a=s,i=c("2877"),r=Object(i["a"])(a,e,o,!1,null,"24ba2244",null);t["default"]=r.exports}}]);
