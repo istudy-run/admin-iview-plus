@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["404.e9541e49"],{cc89:function(n,e,t){"use strict";t.r(e);var c={components:{Exception:t("2af9").n}},o=t("2877"),p=Object(o.a)(c,(function(){return(0,this._self._c)("exception",{attrs:{type:"404","img-color":""}})}),[],!1,null,"24ba2244",null);e.default=p.exports}}]);
