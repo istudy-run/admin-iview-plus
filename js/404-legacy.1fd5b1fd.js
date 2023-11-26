@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkiview_admin_plus"]=self["webpackChunkiview_admin_plus"]||[]).push([[596],{69673:function(n,e,i){i.r(e),i.d(e,{default:function(){return a}});var r=i(66252);function t(n,e,i,t,u,c){var p=(0,r.up)("exception");return(0,r.wg)(),(0,r.j4)(p,{type:"404","img-color":""})}var u=i(31922),c={components:{Exception:u.Pp}},p=i(83744);const o=(0,p.Z)(c,[["render",t]]);var a=o}}]);
-//# sourceMappingURL=404-legacy.1fd5b1fd.js.map
